@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "/img/pexels-cottonbro-studio-6739704.jpg",
+        "name": "Bol en céramique",
+        "description": "Bol en céramique artisanal, parfait pour les soupes et les salades",
+        "price": 19.99,
+        "category": "Vaisselle"
+      },
+      {
+        "id": 2,
+        "image": "/img/pexels-cottonbro-studio-6739704.jpg",
+        "name": "Assiette en céramique",
+        "description": "Assiette en céramique de qualité supérieure, idéale pour les repas gastronomiques",
+        "price": 24.99,
+        "category": "Vaisselle"
+      },
+      {
+        "id": 3,
+        "image": "/img/pexels-cottonbro-studio-6739224.jpg",
+        "name": "Vase en céramique",
+        "description": "Vase en céramique sculpté à la main, ajoutant une touche d'élégance à votre décoration intérieure",
+        "price": 49.99,
+        "category": "Décoration"
+      }
+    ]
+  }
+  

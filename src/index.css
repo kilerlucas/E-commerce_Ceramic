@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* CSS personalizado */
+.bg-beige {
+  background-color: #efeeea;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.btn-custom-green {
+  background-color: #556b2f;
+  color: #fff;
+}
+
+.btn-custom-green:hover,
+.btn-custom-green:focus {
+  background-color: #8fbc8b;
+}
